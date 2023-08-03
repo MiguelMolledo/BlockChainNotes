@@ -89,3 +89,13 @@ library customLibrary {
 
 using customLibrary for uint256;
 ```
+
+###  TX GAS PRICE
+```solidity
+vm.txGasPrice
+gasLeft()
+tx.getprice
+
+
+```
+
