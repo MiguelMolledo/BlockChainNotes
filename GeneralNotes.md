@@ -3,10 +3,14 @@
     forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
 
 # Run tests
-	forge test
-	forge test --match-test testMethodName
-	forge test --fork-url
-	forge covarage ( to see how much of our code is covered by testing) 
+```shell
+forge test
+forge test --match-test testMethodName
+forge test --fork-url
+forge covarage ( to see how much of our code is covered by testing) 
+```
+
+
 
 # linux commands
 	
