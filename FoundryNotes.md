@@ -6,6 +6,10 @@ to check what information is being cached in Storage
 
  	forge inspect FundMe StorageLayout
 
+  Execute a script with --rpc-url and with private key 
+  
+  	forge script script/DeployFundMe.s.sol --rpc-url http://127.0.0.1:8545 --private-key 0x0
+
 
 ## Testing
 Run tests
