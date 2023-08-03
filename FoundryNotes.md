@@ -4,7 +4,7 @@
 
 to check what information is being cached in Storage 
 
- 	forge inspect FundMe StorageLayout
+ 	forge inspect ContractName storageLayout
 
   Execute a script with --rpc-url and with private key 
   
