@@ -92,7 +92,7 @@ using customLibrary for uint256;
 
 ###  TX GAS PRICE
 ```solidity
-vm.txGasPrice
+vm.txGasPrice > In Foundry 
 gasLeft()
 tx.getprice
 
