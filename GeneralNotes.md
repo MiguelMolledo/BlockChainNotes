@@ -13,10 +13,11 @@ forge covarage ( to see how much of our code is covered by testing)
 
 
 # linux commands
-	
-	echo $YourVariable > prints the variable
-	source <yourFile> adds the content in your environment. ex. source .env 
 
+```shell
+echo $YourVariable > prints the variable
+source <yourFile> adds the content in your environment. ex. source .env 
+```
 
 
 # Important notes when developing
