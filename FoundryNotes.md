@@ -1,5 +1,11 @@
 # Foundry
 
+## Building
+
+to check what information is being cached in Storage 
+
+ 	forge inspect FundMe StorageLayout
+
 
 ## Testing
 Run tests
@@ -7,7 +13,7 @@ Run tests
 	forge test
 	forge test --match-test testMethodName
 	forge test --fork-url
-	forge covarage ( to see how much of our code is covered by testing) 
+	forge coverage ( to see how much of our code is covered by testing) 
 
 ## Anvil
 
