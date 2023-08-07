@@ -19,5 +19,7 @@ You can find interesting information in these links
 3. Ineherets from  `contract VRFv2Consumer is VRFConsumerBaseV2, ConfirmedOwner { `
 4. override `fulfillRandomWords`
 5. Deploy your contract
-6. Go to subscription Manager and add a consumer
+6. Go to Subscription Manager and add a consumer
    1. This consume will use admin allowed Link tokens
+
+![image](https://github.com/MiguelMolledo/BlockChainNotes/assets/24359861/4a0110ef-8bfc-41a9-a125-d7a0a28ef7ae)
